@@ -11,7 +11,7 @@ h1
 }
 .greet{
     text-align:center;
-    padding:10% 5%;
+    padding:10% 20%;
     border:solid 1px;
     margin:8% 8%;
     border-radius:5%;
@@ -36,6 +36,9 @@ h1
     float:right;
     margin-right:290px;
     border:solid 2px black;
+}
+.contact-me
+{
     font-family: 'Montserrat';
 }
 .right-text
@@ -56,6 +59,7 @@ h1
 .extra{
     padding:5%;
     text-align:center;
+    margin: auto auto;
 }
 .icon{
     padding:5%;
@@ -91,4 +95,38 @@ h1
 }
 #submitButton{
   margin-left:5%;
+}
+@media(max-width: 1024px){
+    .getStarted
+    {
+        width:50%;
+        border:solid 2px black;
+        margin:0 auto;
+        float:none;
+        text-align: center;
+    }
+    .Contact
+    {
+        width:50%;
+        border:solid 2px black;
+        margin:0 auto;
+        float:none;
+        text-align: center;
+    }
+    .right-text
+    {
+      clear:left;
+      margin:0 auto;
+    }
+   .left-text
+  {
+    margin:0 auto;
+    clear:right;
+   }
+   .follow{
+    padding: 5% 7%;
+   }
+   .greet{
+    padding :10% 5%;
+   }
 }
