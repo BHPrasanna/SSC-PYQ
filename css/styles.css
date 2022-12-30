@@ -1,0 +1,94 @@
+h1
+{
+    font-family:'Lobster';
+    font-size: 5.625rem;
+}
+.header{
+    padding-left:1%;
+}
+#title{
+    background-color:#3C6255;
+}
+.greet{
+    text-align:center;
+    padding:10% 10%;
+    border:solid 1px;
+    margin:8% 8%;
+    border-radius:5%;
+    background-color: #EAE7B1;
+}
+.follow
+{ 
+  padding-left:10%;
+  font-weight: bold;
+  font-family: 'Montserrat';
+}
+.getStarted
+{
+    width:25%;
+    float:left;
+    margin:10px 30px;
+    border:solid 2px black;
+}
+.Contact
+{
+    width:25%;
+    float:right;
+    margin-right:150px;
+    border:solid 2px black;
+    font-family: 'Montserrat';
+}
+.right-text
+{
+    margin:30px 70px;
+}
+.left-text
+{
+    margin:30px 20px;
+}
+.procedure{
+    padding-left:20%;
+    padding-top:3%;
+    padding-bottom:3%;
+    background-color:#61876E;
+    color:white;
+}
+.extra{
+    padding:5%;
+    text-align:center;
+}
+.icon{
+    padding:5%;
+    background-color: #EAE7B1;
+}
+.col-lg-6{
+    margin-top:3%;
+}
+#footer-corousel{
+  padding:7% 15%;
+}
+#footer{
+    background-color: #3C6255;
+    color:white;
+    font-family: 'Montserrat';
+}
+.greats{
+    font-style: italic;
+    font-weight: bold;
+    position:relative;
+    right:5px;
+}
+.Note{
+    color:blue;
+    margin-top:70px;
+}
+.copy-right{
+    color:white;
+    text-align: center;
+}
+.this-form{
+    padding:5% 5%
+}
+#submitButton{
+  margin-left:5%;
+}
