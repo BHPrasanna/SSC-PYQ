@@ -34,7 +34,7 @@ h1
 {
     width:25%;
     float:right;
-    margin-right:150px;
+    margin-right:290px;
     border:solid 2px black;
     font-family: 'Montserrat';
 }
@@ -49,7 +49,7 @@ h1
 .procedure{
     padding-left:20%;
     padding-top:3%;
-    padding-bottom:3%;
+    padding-bottom:5%;
     background-color:#61876E;
     color:white;
 }
